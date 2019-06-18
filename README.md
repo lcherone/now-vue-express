@@ -6,7 +6,7 @@ This example shows a pre-setup project including:
 - `public` and `src` directories, containing the Vue project files.
 - `.env` files ready for whatnot.
 
-Upon build a `dist` direcotry will where built files will be served from, i.e now's webroot `/`.
+Bog standard, upon build a `dist` directory will be created which built files will be served from, now's webroot `/`.
 
 
 #### Local Development
