@@ -3,8 +3,7 @@
 This example shows a pre-setup project including:
 
 - An `api` directory, containing a single endpoint that retrieves the current time with Express built with the [@now/node Builder](https://zeit.co/docs/v2/deployments/official-builders/node-js-now-node/).
-- A `dist` directory, containing the static built Vue project files.
-- A `src` directory, containing the Vue project source files.
+- A `public` and `src` directorys, containing the Vue project files.
 - `.env` files ready.
 
 
